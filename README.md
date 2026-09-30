@@ -63,7 +63,7 @@ Yahoo Auctions Japan currently has several auctions for this drive: **tested UJ8
 
 Recent completed examples from the same seller also sold for **¥1,440**, while older completed listings were around **¥1,680**.
 
-Historical confirmation also exists from an SX4 owner who bought a used **UJ8B9** for **¥2,453 shipped** and successfully restored DVD playback.
+This post from an SX4 owner who bought a used **UJ8B9** for **¥2,453 shipped** and successfully restored DVD playback. See: [CF-SX4 UJ8B9 optical-drive replacement write-up](https://lazycatumezawa.blog.fc2.com/blog-category-16.html).
 
 ### Buying target
 
@@ -71,8 +71,6 @@ Historical confirmation also exists from an SX4 owner who bought a used **UJ8B9*
 - **Fine:** up to about ¥2,500 if explicitly read-tested and complete
 - **Avoid:** untested UJ8B9A unless nearly free
 - **Do not substitute:** **DP-8A4SH** — SX-series machines used both mechanisms and the surrounding mechanical structure differs
-
-A full donor SX4 is now **optional**, not the primary DVD-repair strategy. It is still useful for spare chassis parts, keyboard pieces, hinges, fan, cables, etc., but it is unnecessary just to fix the optical drive.
 
 ## Optical drive notes
 
