@@ -55,9 +55,7 @@ The optical mechanism in this machine has now been positively identified from th
 - family/model reported by Windows as **MATSHITA DVD-RAM UJ8B9**
 - sticker observed in this machine: `UJ8B9A / BCD1-A / 5FFWE`
 
-This is much better news than relying on an entire donor laptop.
-
-Yahoo Auctions Japan currently surfaces **tested UJ8B9A drives explicitly advertised for CF-SX1 / CF-SX2 / CF-SX3 / CF-SX4** at about:
+Yahoo Auctions Japan currently has several auctions for this drive: **tested UJ8B9A drives explicitly advertised for CF-SX1 / CF-SX2 / CF-SX3 / CF-SX4** at about:
 
 - **¥1,440 Buy It Now + ¥185 domestic shipping**
 - seller description: **tested with four kinds of media**
