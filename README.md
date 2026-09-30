@@ -11,7 +11,7 @@ This repo tracks the restoration, upgrades, sourcing, and Linux setup for a Pana
 - **RAM:** 24 GB total
   - 8 GB onboard
   - 16 GB DDR3L SO-DIMM installed
-- **Storage:** SATA SSD installed
+- **Storage:** 1TB Sandisk SSD installed
 - **Original HDD:** preserved intact with the original Panasonic Windows install
 - **Optical drive:** present, but faulty
   - spins/tries to read a disc three times, then gives up
